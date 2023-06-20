@@ -5,4 +5,4 @@ Companion files for the revised paper "CGMM-based Sound Zone Generation using Ro
 PM (true) and (ii) PM (measured) correspond to the cases that the PM method is evaluated by the true ATFs and measured ATFs, respectively; (iii) RPM (full) corresponds to the case of the proposed robust pressure matching (RPM) method with an ellipsoidal constraint, and the type of the covariance matrix in such uncertainty constraint is chosen as ‘full’. 
 
 Description: We provide the synthesized audio files of the signal source (Speech alpha) and interference source (Music beta) in the bright zone, e.g., Speech_alpha_add_Music_beta_in_bright_zone_PM_measured.wav;
-The RPM (full) method can obtain a higher Signal to Interference Ratio (SIR) than the PM (measured), which is also consistent with the results shown in the V.I. section of the manuscript.
+The RPM (full) method can obtain a higher Signal to Interference Ratio (SIR) than the PM (measured), which is also consistent with the results shown in the Section V.I. of the manuscript.
