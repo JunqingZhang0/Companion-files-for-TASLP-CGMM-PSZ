@@ -6,3 +6,17 @@ Description:
 PM (true) and (ii) PM (measured) correspond to the cases that the PM method is evaluated by the true ATFs and measured ATFs, respectively; (iii) RPM (full) corresponds to the case of the proposed robust pressure matching (RPM) method with an ellipsoidal constraint, and the type of the covariance matrix in such uncertainty constraint is chosen as ‘full’. 
 
 'Speech alpha' is chosen as the desired soundfield within the bright zone, while the 'Music beta' is set as interference. The synthesized audio files of the signal and interference using different methods in the bright zone are provided, e.g., Speech_alpha_add_Music_beta_in_bright_zone_PM_measured.wav; The RPM (full) method can obtain a higher Signal to Interference Ratio (SIR) than the PM (measured), which is consistent with the results shown in the Section V.I. of the manuscript.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Speech_alpha_add_Music_beta_in_bright_zone_PM_true.wav        ------>     The synthesized audio file using the PM (true) method within the bright zone
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Speech_alpha_add_Music_beta_in_bright_zone_PM_measured.wav    ------>     The synthesized audio file using the PM (measured) method within the bright zone
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Speech_alpha_add_Music_beta_in_bright_zone_RPM_full.wav       ------>     The synthesized audio file using the RPM (full) method within the bright zone
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Speech_alpha_add_Music_beta_in_bright_zone_PM_true.wav        ------>     The synthesized audio file using the PM (true) method within the bright zone
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Speech_alpha_add_Music_beta_in_bright_zone_PM_measured.wav    ------>     The synthesized audio file using the PM (measured) method within the bright zone
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Speech_alpha_add_Music_beta_in_bright_zone_RPM_full.wav       ------>     The synthesized audio file using the RPM (full) method within the bright zone
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
