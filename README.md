@@ -8,7 +8,7 @@ PM (true) and (ii) PM (measured) correspond to the cases that the PM method is e
 'Speech alpha' is chosen as the desired soundfield within the bright zone, while the 'Music beta' is set as interference. The synthesized audio files of the signal and interference using different methods in the bright zone are provided, e.g., Speech_alpha_add_Music_beta_in_bright_zone_PM_measured.wav; 
 
 Conclusion: 
-The RPM (full) method can obtain a higher Signal to Interference Ratio (SIR) than the PM (measured), which is consistent with the results shown in the Section V.I. of the manuscript.
+The RPM (full) method can obtain a higher Signal to Interference Ratio (SIR) than the PM (measured), which is consistent with the results shown in the Section V.I. of the manuscript. For the sake of simplicity, the perturbations in ATFs are assumed to occur only in the bright zone (i.e., speech as the target source). On the contrary, same conclusions can be drawn.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 Speech_alpha_add_Music_beta_in_bright_zone_PM_true.wav        ->     The synthesized audio file using the PM (true) method within the bright zone
@@ -16,10 +16,4 @@ Speech_alpha_add_Music_beta_in_bright_zone_PM_true.wav        ->     The synthes
 Speech_alpha_add_Music_beta_in_bright_zone_PM_measured.wav    ->     The synthesized audio file using the PM (measured) method within the bright zone
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 Speech_alpha_add_Music_beta_in_bright_zone_RPM_full.wav       ->     The synthesized audio file using the RPM (full) method within the bright zone
------------------------------------------------------------------------------------------------------------------------------------------------------------
-Speech_alpha_add_Music_beta_in_bright_zone_PM_true.wav        ->     The synthesized audio file using the PM (true) method within the bright zone
------------------------------------------------------------------------------------------------------------------------------------------------------------
-Speech_alpha_add_Music_beta_in_bright_zone_PM_measured.wav    ->     The synthesized audio file using the PM (measured) method within the bright zone
------------------------------------------------------------------------------------------------------------------------------------------------------------
-Speech_alpha_add_Music_beta_in_bright_zone_RPM_full.wav       ->     The synthesized audio file using the RPM (full) method within the bright zone
------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
